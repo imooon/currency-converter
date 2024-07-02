@@ -8,7 +8,7 @@
 
 ### For more details on building a currency converter in ReactJS, refer to the guide by Coding Nepal: [Build A Currency Converter in ReactJS](https://www.codingnepalweb.com/build-currency-converter-project-reactjs/).
 
-### Currency conversion API https://www.exchangerate-api.com/
+### Currency conversion API [ExchangeRate-API](https://www.exchangerate-api.com/)
 
 ### Photo by <a href="https://unsplash.com/@ricvath?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Richard Horvath</a> on <a href="https://unsplash.com/photos/yellow-and-white-abstract-painting-_nWaeTF6qo0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
