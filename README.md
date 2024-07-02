@@ -4,7 +4,7 @@
 
 #### The Currency Converter is a simple application showcasing basic React fundamentals and API integration. This project follows the tutorial provided by [Coding Nepal](https://www.codingnepalweb.com/). I do not claim ownership of this project. Please visit [Coding Nepal](https://www.codingnepalweb.com/) for more tutorials.
 
-# Rescources
+# Resources
 
 ### For more details on building a currency converter in ReactJS, refer to the guide by Coding Nepal: [Build A Currency Converter in ReactJS](https://www.codingnepalweb.com/build-currency-converter-project-reactjs/).
 
